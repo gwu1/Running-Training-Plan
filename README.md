@@ -5,16 +5,14 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Live Demo](https://img.shields.io/badge/Try%20It%20Now-https://genewu.pythonanywhere.com-brightgreen)](https://genewu.pythonanywhere.com/)
 
-**Plan your next run in Sha Tin, Hong Kong with style!** This Flask app calculates your workout time based on distance, pace, drills, and sprints—now with **interactive Google Maps showing your full route embedded in the page**! Enjoy drill videos and a Sha Tin Racecourse backdrop for that local vibe. 🌟
+**Plan your next run in Hong Kong with style!** This Flask app calculates your workout time based on distance, pace, drills, and sprints—featuring **interactive Google Maps with pinpoint-accurate routes embedded in the page**! Enjoy drill videos and a Sha Tin Racecourse backdrop for that local vibe. 🌟
 
 ## ✨ Features
-- **Routes:**
-  - **7.5 km**: SCTC → Sha Tin Sports Ground → Twin Bridge → SCTC (drills & sprints included).
-  - **10.3 km**: SCTC → Ma On Shan Promenade → SCTC.
-  - **13.5 km**: SCTC → Twin Bridge → HK Science Park → SCTC.
-- **Tune Your Run:** Pace dropdowns (default 6:00 min/km); sprint sets for Option 1.
-- **Get the Details:** Run time, drill/sprint times (if any), and total duration.
-- **Bonus:** Accurate route maps + video tutorials for Option 1!
+- **Variety of Routes:** Explore multiple running options around Sha Tin, Tsuen Wan, and beyond—new routes added regularly!
+- **Tune Your Run:** Set your pace (min/km) with dropdowns; adjust sprint sets for select routes.
+- **Get the Details:** See your pace, run time, drill/sprint times (if any), and total duration.
+- **Bonus:** Accurate route maps + video tutorials for some routes!
+
 
 ## 📸 Screenshot
 <img width="1414" alt="Screenshot 2025-03-22 at 3 50 37 PM" src="https://github.com/user-attachments/assets/d37a813d-4b65-4039-b47e-ed3cf76798f5" />
