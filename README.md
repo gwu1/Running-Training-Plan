@@ -13,7 +13,6 @@
 - **Get the Details:** See your pace, run time, drill/sprint times (if any), and total duration.
 - **Bonus:** Accurate route maps + video tutorials for some routes!
 
-
 ## 📸 Screenshot
 <img width="1414" alt="Screenshot 2025-03-22 at 3 50 37 PM" src="https://github.com/user-attachments/assets/d37a813d-4b65-4039-b47e-ed3cf76798f5" />
 
