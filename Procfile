@@ -1,0 +1,1 @@
+web: gunicorn running_training_planning:app
