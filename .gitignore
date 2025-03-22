@@ -24,3 +24,10 @@ instance/
 *.bak
 *.tmp
 
+# Keep source files
+!flask_app.py
+!test_flask_app.py
+!requirements.txt
+!Procfile
+!README.md
+!static/background.jpg
