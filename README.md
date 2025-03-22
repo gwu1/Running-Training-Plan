@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Live Demo](https://img.shields.io/badge/Try%20It%20Now-https://genewu.pythonanywhere.com-brightgreen)](https://genewu.pythonanywhere.com/)
 
-**Plan your next run in Sha Tin, Hong Kong with style!** This Flask app calculates your workout time based on distance, pace, drills, and sprints—complete with Google Maps links and drill videos. Rocking a Sha Tin Racecourse backdrop for that local vibe. 🌟
+**Plan your next run in Sha Tin, Hong Kong with style!** This Flask app calculates your workout time based on distance, pace, drills, and sprints—now with **interactive Google Maps showing your full route embedded in the page**! Enjoy drill videos and a Sha Tin Racecourse backdrop for that local vibe. 🌟
 
 ## ✨ Features
 - **Routes:**
@@ -17,7 +17,7 @@
 - **Extras:** Embedded maps and drill tutorial videos.
 
 ## 📸 Screenshot
-<img width="1417" alt="Screenshot" src="https://github.com/user-attachments/assets/f1ff24ab-2cd0-4bc0-92bb-fee74ac244db" />
+<img width="1414" alt="Screenshot 2025-03-22 at 3 50 37 PM" src="https://github.com/user-attachments/assets/d37a813d-4b65-4039-b47e-ed3cf76798f5" />
 
 ## 🚀 Try It Live!
 [**Click Here to Run It Now!**](https://genewu.pythonanywhere.com/)  
