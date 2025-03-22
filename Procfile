@@ -1,1 +1,1 @@
-web: gunicorn running_training_planning:app
+web: gunicorn flask_app:app

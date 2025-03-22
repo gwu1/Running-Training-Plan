@@ -1,0 +1,26 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Flask-specific
+instance/
+*.log
+
+# macOS-specific
+.DS_Store
+
+# Editor/IDE files
+.vscode/
+.idea/
+
+# Miscellaneous
+*.swp
+*.bak
+*.tmp
+
