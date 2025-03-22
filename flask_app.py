@@ -82,6 +82,7 @@ TEMPLATE = '''
 <html>
 <head>
     <title>Running / Training Planning</title>
+    <link rel="icon" type="image/png" href="/static/running_9722491.png">
     <style>
         body {
             font-family: Arial, sans-serif;
