@@ -9,12 +9,12 @@
 
 ## ✨ Features
 - **Routes:**
-  - **7.2 km**: SCTC → Sha Tin Sports Ground → Twin Bridge → SCTC (includes drills & sprints).
+  - **7.5 km**: SCTC → Sha Tin Sports Ground → Twin Bridge → SCTC (drills & sprints included).
   - **10.3 km**: SCTC → Ma On Shan Promenade → SCTC.
   - **13.5 km**: SCTC → Twin Bridge → HK Science Park → SCTC.
-- **Customizable:** Set pace (default 6:00 min/km) via dropdowns; adjust sprint sets for Option 1.
-- **Output:** Detailed summary with run time, drill/sprint times (if applicable), and total duration.
-- **Extras:** Embedded maps and drill tutorial videos.
+- **Tune Your Run:** Pace dropdowns (default 6:00 min/km); sprint sets for Option 1.
+- **Get the Details:** Run time, drill/sprint times (if any), and total duration.
+- **Bonus:** Accurate route maps + video tutorials for Option 1!
 
 ## 📸 Screenshot
 <img width="1414" alt="Screenshot 2025-03-22 at 3 50 37 PM" src="https://github.com/user-attachments/assets/d37a813d-4b65-4039-b47e-ed3cf76798f5" />
@@ -102,10 +102,12 @@ running-training-planning/
 ## 🛠️ Dependencies
 - `flask`: Web framework.
 - `gunicorn`: WSGI server for Render.
+- `python-dotenv`: Loads .env secrets.
 
 ## 🙌 Credits
-- Background: [Hong Kong Jockey Club](https://res.hkjc.com/racingnews/wp-content/uploads/sites/3/2022/01/news02_220130_05.jpg)
-- Drill Videoes: Linked in the app via YouTube.
+- **Background**: [Hong Kong Jockey Club](https://res.hkjc.com/racingnews/wp-content/uploads/sites/3/2022/01/news02_220130_05.jpg)
+- **Drill Videoes**: Linked in the app via YouTube.
+- **Maps**: Google Maps Embed API (Directions).
 
 ## 📜 License
 MIT License - free to use, modify, and distribute!
